@@ -7,4 +7,4 @@ def subtract(x, y):
 
 
 def divide(x, y):
-    return "Hello World"
+    return x / y
